@@ -1,3 +1,4 @@
-Date - 16/11/2025
+Date - 18/11/2025
 =================
-• Version bump 3.6
+• Initial Unofficial OTA
+• Version 3.6
