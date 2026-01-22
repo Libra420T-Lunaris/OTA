@@ -1,4 +1,7 @@
-Date - 18/11/2025
+Date - 21/11/2025
 =================
-• Initial Unofficial OTA
+• Initial Initiation of Unofficial OTA
 • Version 3.6
+• Fixed GoogleCamera Protrait Blur Issue { https://t.me/LibraAlch3my/3906/9951 }
+• Dropped Google Face Unlock (Temporary)
+• Replaced with Paranoid Sense (Temporary)
