@@ -1,23 +1,23 @@
 {
   "response": [
     {
-      "maintainer": "Libra420T",
+      "maintainer": "",
       "currently_maintained": false,
-      "oem": "Google",
-      "device": "Pixel 8a",
-      "filename": "Lunaris-AOSP-akita-UNOFFICIAL-3.6-Gapps-2026012123.zip",
-      "download": "https://sourceforge.net/projects/libra420t-alch3my/files/Lunaris-AOSP/akita/3.6/gapps/Lunaris-AOSP-akita-UNOFFICIAL-3.6-Gapps-2026012123.zip/download",
-      "timestamp": 1769037158,
-      "md5": "19d22a0cc14e5ddadef0d08d3a2730ea",
-      "sha256": "115215d1c58f4ee131a3828fc7a1eac7110cab451a3927d4d7864cdfac62a8b3",
-      "size": 3205022191,
+      "oem": "",
+      "device": "",
+      "filename": "Lunaris-AOSP-akita-UNOFFICIAL-3.6-Gapps-2026012320.zip",
+      "download": "https://sourceforge.net/projects/libra420t-alch3my/files/Lunaris-AOSP/akita/3.6/gapps/Lunaris-AOSP-akita-UNOFFICIAL-3.6-Gapps-2026012320.zip/download",
+      "timestamp": 1769200347,
+      "md5": "4f6d7cc1499cf9f8c87639c939f93f02",
+      "sha256": "bb0c65be8cd2817b14ffa7fb2c311aeb9dc3b289438ab2a4485c96442ec424c8",
+      "size": 3205008817,
       "version": "3.6",
       "buildtype": "user",
-      "forum": "https://t.me/LibraAlch3my",
-      "firmware": "bp2a",
-      "paypal": "https://paypal.me/ryantf420",
-      "github": "Libra420T-Lunaris",
-      "sourceforge": "no-cache",
+      "forum": "",
+      "firmware": "",
+      "paypal": "",
+      "github": "",
+      "sourceforge": "",
       "initial_installation_images": []
     }
   ]

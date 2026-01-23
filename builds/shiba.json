@@ -1,23 +1,23 @@
 {
   "response": [
     {
-      "maintainer": "Libra420T",
+      "maintainer": "",
       "currently_maintained": false,
-      "oem": "Google",
-      "device": "Pixel 8",
-      "filename": "Lunaris-AOSP-shiba-UNOFFICIAL-3.6-Gapps-2026012122.zip",
-      "download": "https://sourceforge.net/projects/libra420t-alch3my/files/Lunaris-AOSP/shiba/3.6/gapps/Lunaris-AOSP-shiba-UNOFFICIAL-3.6-Gapps-2026012122.zip/download",
-      "timestamp": 1769035399,
-      "md5": "e9e239e3c6d499b48dcc355126ce9100",
-      "sha256": "5e1a9605f81d093dbd6c167155eee9822dda1f5084c6d4acdd61b39021f9eb66",
-      "size": 3211806667,
+      "oem": "",
+      "device": "",
+      "filename": "Lunaris-AOSP-shiba-UNOFFICIAL-3.6-Gapps-2026012320.zip",
+      "download": "https://sourceforge.net/projects/libra420t-alch3my/files/Lunaris-AOSP/shiba/3.6/gapps/Lunaris-AOSP-shiba-UNOFFICIAL-3.6-Gapps-2026012320.zip/download",
+      "timestamp": 1769198153,
+      "md5": "381c3663fa5884031dc60aa7a2d40181",
+      "sha256": "0aa8047d168ad9f2b84a22ff6b5a9a53a09430af9f0b163a8beed472b141eb46",
+      "size": 3211781621,
       "version": "3.6",
       "buildtype": "user",
-      "forum": "https://t.me/LibraAlch3my",
-      "firmware": "bp2a",
-      "paypal": "https://paypal.me/ryantf420",
-      "github": "Libra420T-Lunaris",
-      "sourceforge": "no-cache",
+      "forum": "",
+      "firmware": "",
+      "paypal": "",
+      "github": "",
+      "sourceforge": "",
       "initial_installation_images": []
     }
   ]
