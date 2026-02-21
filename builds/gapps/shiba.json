@@ -2,23 +2,25 @@
   "response": [
     {
       "maintainer": "",
-      "currently_maintained": false,
       "oem": "",
       "device": "",
-      "filename": "Lunaris-AOSP-shiba-UNOFFICIAL-3.6-Gapps-2026012320.zip",
-      "download": "https://sourceforge.net/projects/libra420t-alch3my/files/Lunaris-AOSP/shiba/3.6/gapps/Lunaris-AOSP-shiba-UNOFFICIAL-3.6-Gapps-2026012320.zip/download",
-      "timestamp": 1769198153,
-      "md5": "381c3663fa5884031dc60aa7a2d40181",
-      "sha256": "0aa8047d168ad9f2b84a22ff6b5a9a53a09430af9f0b163a8beed472b141eb46",
-      "size": 3211781621,
-      "version": "3.6",
+      "filename": "Lunaris-AOSP-shiba-UNOFFICIAL-3.7-GMS-2026022015.zip",
+      "download": "https://sourceforge.net/projects/libra420t-alchemy/files/Lunaris-AOSP/shiba/3.7/gapps/Lunaris-AOSP-shiba-UNOFFICIAL-3.7-GMS-2026022015.zip/download",
+      "timestamp": 1771602993,
+      "md5": "02f9b705c6b035aeb2500f95abd5c008",
+      "sha256": "fa72f8ea6d700e00a11dd47dbe5f54f52cc6b3393dee701475cb9e3be16014e8",
+      "size": 3163851204,
+      "version": "3.7",
       "buildtype": "user",
-      "forum": "",
-      "firmware": "",
-      "paypal": "",
-      "github": "",
-      "sourceforge": "",
-      "initial_installation_images": []
+      "gapps": "full",
+      "firmware": "bp4a",
+      "recovery": "vendor_boot | vendor_kernel_boot",
+      "dt": "https://github.com/Libra420T-Lunaris",
+      "common-dt": "https://github.com/orgs/LineageOS/",
+      "kernel": "6.1.145-android14-11-gc1de4747ac59-ab14219743",
+      "forum": "https://t.me/LibraAlch3my",
+      "telegram": "https://t.me/Libra420T",
+      "paypal": "https://paypal.me/ryantf420"
     }
   ]
 }

@@ -1,9 +1,8 @@
-Date - 23/11/2025
+Date - 20/02/2026
 =================
-• Version 3.6
+• Version 3.7
 • Synced with Latest Source
-• New Refresh Rate Menu
-• Initial Initiation of Unofficial OTA
-• Fixed GoogleCamera Protrait Blur Issue { https://t.me/LibraAlch3my/3906/9951 }
-• Dropped Google Face Unlock (Temporary)
-• Replaced with Paranoid Sense (Temporary)
+• Febuary Security
+• Febuary Vendor
+• New Signing Keys --> adb sideload is recommended
+• Also Initial Vanilla Release 
